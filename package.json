@@ -54,7 +54,7 @@
     "react-helmet": "^6.1.0",
     "react-instantsearch-dom": "^6.7.0",
     "react-loadable": "^5.5.0",
-    "react-plotly.js": "^2.5.0",
+    "react-plotly.js": "2.5.1",
     "react-spring": "^8.0.23",
     "sharp": "0.26.1",
     "styled-components": "^5.2.0",
