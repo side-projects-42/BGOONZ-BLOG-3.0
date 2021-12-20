@@ -21,7 +21,7 @@ To get this site running locally, you need to have installed [`git`](https://git
 1. Clone the repo to your machine and change into its directory.
 
    ```sh
-   git clone https://github.com/janosh/blog \
+   git clone https://github.com/bgoonz/blog \
    && cd blog
    ```
 

@@ -8,7 +8,7 @@ require(`dotenv`).config()
 const siteMetadata = {
   title: `bgoonzblog3`,
   description: `Physics, machine learning, sustainability and web development.`,
-  author: `Janosh Riebesell`,
+  author: `Bryan Guner`,
   url: `https://bgoonz-blog-3.netlify.app/`,
 }
 
