@@ -1,4 +1,4 @@
-# janosh.dev
+# https://bgoonz-blog-3.netlify.app/
 
 The code for my personal blog. I use it to write about physics, machine learning, sustainability and web development.
 

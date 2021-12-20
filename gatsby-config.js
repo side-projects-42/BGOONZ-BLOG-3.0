@@ -6,10 +6,10 @@ const sitemapOptions = require(`./src/utils/sitemap`)
 require(`dotenv`).config()
 
 const siteMetadata = {
-  title: `janosh.dev`,
+  title: `bgoonzblog3`,
   description: `Physics, machine learning, sustainability and web development.`,
   author: `Janosh Riebesell`,
-  url: `https://janosh.dev`,
+  url: `https://bgoonz-blog-3.netlify.app/`,
 }
 
 const gatsbyRemarkPlugins = [
