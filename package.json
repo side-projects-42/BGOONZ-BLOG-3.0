@@ -13,7 +13,7 @@
     "@mdx-js/mdx": "^1.6.18",
     "@mdx-js/react": "^1.6.18",
     "algoliasearch": "^4.5.1",
-    "babel-plugin-styled-components": "^1.11.1",
+    "babel-plugin-styled-components": "1.13.3",
     "disqus-react": "^1.0.10",
     "exifreader": "^3.12.3",
     "gatsby": "2.24.73",
