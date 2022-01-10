@@ -26,7 +26,7 @@ export default function PageTemplate({ data }) {
 }
 
 export const query = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     page: mdx(frontmatter: { slug: { eq: $slug } }) {
       ...page
     }

@@ -41,7 +41,7 @@ export const query = graphql`
       ...cover
     }
   }
-  query($slug: String!, $prevSlug: String!, $nextSlug: String!) {
+  query ($slug: String!, $prevSlug: String!, $nextSlug: String!) {
     post: mdx(frontmatter: { slug: { eq: $slug } }) {
       ...page
     }
