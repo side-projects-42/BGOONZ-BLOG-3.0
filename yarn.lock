@@ -8615,10 +8615,10 @@ gatsby-remark-sub-sup@^1.0.0:
   dependencies:
     remark-sub-super "^1.0.11"
 
-gatsby-remark-vscode@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-vscode/-/gatsby-remark-vscode-3.1.0.tgz#f513f060d0b9e1f47f6105c9da1fe3cd33f5aa8e"
-  integrity sha512-2NnPStgN/ARgFXoIl5fQXFiSpAvTIc6Y9oMc5BckQcxHaCEBg1NJRFx1DGcM73UfQBhBfCib9yiiLajnNxGtUg==
+gatsby-remark-vscode@3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-vscode/-/gatsby-remark-vscode-3.3.1.tgz#0a42583d3f7ccc043ddef9c5c4cfb0a677a190cd"
+  integrity sha512-KUCDU8KauLikURYuGyAZ0aLhHhd/BP2XwzP/WP0wkgyKjh650PwewQghwpD9g2wVkN+fThFJDs4G64K4fduDGQ==
   dependencies:
     decompress "^4.2.0"
     json5 "^2.1.1"
