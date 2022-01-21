@@ -1,9 +1,9 @@
-# # dependencies
-# node_modules
+# dependencies
+node_modules
 
-# # builds
-# .cache
-# public
+# builds
+.cache
+public
 
 # deploy config
 .netlify
