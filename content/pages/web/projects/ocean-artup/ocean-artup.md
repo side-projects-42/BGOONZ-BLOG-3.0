@@ -3,7 +3,7 @@ title: Ocean artUp
 cover:
   img: ocean-artup.png
 url: https://ocean-artup.eu
-repo: https://github.com/janosh/ocean-artup
+repo: https://github.com/bgoonz/ocean-artup
 date: 2018-07-13
 tech:
   - Gatsby

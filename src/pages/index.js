@@ -12,7 +12,7 @@ import PostList from 'views/PostList'
 import { ProjectList } from 'views/Web'
 
 export default function IndexPage({ data }) {
-  const { mdx, janosh, posts } = data
+  const { mdx, bgoonz, posts } = data
   return (
     <>
       <PageTitle {...mdx.frontmatter.cover} css="min-height: 35em">
@@ -27,7 +27,7 @@ export default function IndexPage({ data }) {
       </PageTitle>
       <PageBody>
         <Img
-          fixed={janosh.img.fixed}
+          fixed={bgoonz.img.fixed}
           css="border-radius: 50%; justify-self: center;"
         />
         <MDXRenderer>{mdx.body}</MDXRenderer>
@@ -88,7 +88,7 @@ export const query = graphql`
       }
       body
     }
-    janosh: file(name: { eq: "janosh" }) {
+    bgoonz: file(name: { eq: "bgoonz" }) {
       img: childImageSharp {
         fixed(width: 175) {
           ...GatsbyImageSharpFixed_withWebp

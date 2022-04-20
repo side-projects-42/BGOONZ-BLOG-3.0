@@ -320,4 +320,4 @@ Normalizing flows seem to really be taking off at the moment. Here's an incomple
 - Andrej Karpathy created [a repo with PyTorch implementations of the most commonly used flows](https://github.com/karpathy/pytorch-normalizing-flows) (also just days after this post).
 - PyMC3 has a [very helpful notebook](https://docs.pymc.io/notebooks/normalizing_flows_overview.html) showcasing how to work with flows in practice and comparing it to their NUTS-based HMC implementation.
 
-I've also started compiling [a repo of helpful resources on NFs](https://github.com/janosh/awesome-normalizing-flows). Feel free to submit PRs to gather even more sources and advice on this topic.
+I've also started compiling [a repo of helpful resources on NFs](https://github.com/bgoonz/awesome-normalizing-flows). Feel free to submit PRs to gather even more sources and advice on this topic.

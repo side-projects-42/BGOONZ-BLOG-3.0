@@ -6,10 +6,10 @@ const sitemapOptions = require(`./src/utils/sitemap`)
 require(`dotenv`).config()
 
 const siteMetadata = {
-  title: `janosh.dev`,
+  title: `bgoonz.dev`,
   description: `Physics, machine learning, sustainability and web development.`,
-  author: `Janosh Riebesell`,
-  url: `https://janosh.dev`,
+  author: `Bryan Guner`,
+  url: `https://bgoonz.dev`,
 }
 
 const gatsbyRemarkPlugins = [

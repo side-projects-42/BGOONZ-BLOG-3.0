@@ -1,12 +1,12 @@
 {
   "private": true,
-  "name": "janosh.dev",
-  "title": "janosh.dev",
-  "homepage": "https://janosh.dev",
-  "description": "Janosh Riebesell's blog",
+  "name": "bgoonz.dev",
+  "title": "bgoonz.dev",
+  "homepage": "https://bgoonz.dev",
+  "description": "Bryan Guner's blog",
   "version": "1.0.0",
-  "author": "Janosh Riebesell <janosh.riebesell@gmail.com>",
-  "repository": "https://github.com/janosh/blog",
+  "author": "Bryan Guner <bgoonz.riebesell@gmail.com>",
+  "repository": "https://github.com/bgoonz/blog",
   "license": "MIT",
   "dependencies": {
     "@google/markerclustererplus": "^5.1.3",
@@ -77,7 +77,7 @@
     "clean": "gatsby clean && gatsby build && gatsby serve -o -H 0.0.0.0"
   },
   "keywords": [
-    "janosh riebesell",
+    "Bryan Guner",
     "personal blog",
     "portfolio",
     "physics",
